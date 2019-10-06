@@ -1,1 +1,3 @@
-*.class *.log
+*.class
+*.log
+target/
